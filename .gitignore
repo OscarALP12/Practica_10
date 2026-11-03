@@ -9,5 +9,3 @@ prettier.config.js
 .prettierrc
 
 // Ignorar la carpeta Práctica_7 en cualquier ubicación dentro del proyecto
-**/Práctica_7/
-.prettierrc
